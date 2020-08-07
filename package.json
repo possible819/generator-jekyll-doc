@@ -1,0 +1,27 @@
+{
+  "name": "generator-jekyll-doc",
+  "version": "0.0.1",
+  "description": "Yeoman generator for github page",
+  "files": [
+    "generators"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possible819/generator-jekyll-doc.git"
+  },
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "Jay Lee <jaylee.possible@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/possible819/generator-jekyll-doc/issues"
+  },
+  "homepage": "https://github.com/possible819/generator-jekyll-doc#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "moment": "^2.27.0",
+    "yeoman-generator": "^4.11.0"
+  }
+}
